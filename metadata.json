@@ -1,0 +1,6 @@
+{
+  "name": "Ghorer Daktar - Healthcare eCommerce & Doctor Consultation",
+  "description": "Complete healthcare eCommerce & MBBS doctor consultation platform for Bangladesh with Organic Products, Medical Devices, Medicines, Admin Panel, and WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
